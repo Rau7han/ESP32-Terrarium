@@ -1410,7 +1410,7 @@ input[type=range]:hover::-webkit-slider-thumb {
             <div>
               <div class="relay-icon">🌀</div>
               <div class="relay-name">Ventilation Fan</div>
-              <div class="relay-pin">GPIO 16 · RELAY_FAN</div>
+              <div class="relay-pin">GPIO 27 · RELAY_FAN</div>
             </div>
             <span class="relay-state" id="rs-fan">OFF</span>
           </div>
